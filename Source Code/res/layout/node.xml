@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_dark"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/node_textView"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        tools:text="Node text here" />
+    <TextView
+        android:id="@+id/receiveText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2E2E2E"
+        android:textStyle="bold"
+        android:visibility="gone"
+        tools:text="get 50 from Swapnil"/>
+</LinearLayout>

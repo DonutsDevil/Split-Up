@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:padding="4dp"
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/ET_debitFrom"
+        style="@style/editTextName"
+        android:layout_weight="1"
+        android:layout_marginEnd="4dp"
+        android:hint="@string/debit_from"
+        android:inputType="text"
+        android:autofillHints="" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/forward_arrow"
+        android:contentDescription="@string/gives_to" />
+    <EditText
+        android:id="@+id/ET_creditTo"
+        style="@style/editTextName"
+        android:layout_weight="1"
+        android:hint="@string/credit_to"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="4dp"
+        android:inputType="text"
+        android:autofillHints="" />
+    <EditText
+        android:id="@+id/ET_amount"
+        style="@style/editTextName"
+        android:layout_marginStart="4dp"
+        android:hint="@string/amountHint"
+        android:layout_weight="0.6"
+        android:inputType="numberSigned"
+        android:autofillHints="" />
+</LinearLayout>

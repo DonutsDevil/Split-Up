@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Split Up</string>
+    <string name="credit_to">Credit To</string>
+    <string name="debit_from">Debit From</string>
+    <string name="amountHint">Amount</string>
+    <string name="gives_to">GIVES TO</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="settle_up">Settle Up</string>
+    <string name="get_list">Get List</string>
+    <string name="owes">Owes</string>
+</resources>
