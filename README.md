@@ -25,5 +25,5 @@ Code [DisplayListType](https://github.com/DonutsDevil/Split-Up/blob/main/Source%
 
 ### NOTE : This wont transfer any money between people.
 
-Using [Zoom libary](https://github.com/natario1/ZoomLayout) to zoom in and out. 
-using [Graph Vieww](https://github.com/oss-bandb/GraphView) to nodes and edges
+Using [Zoom libary](https://github.com/natario1/ZoomLayout) to zoom in and out.    
+Using [Graph Vieww](https://github.com/oss-bandb/GraphView) to nodes and edges
