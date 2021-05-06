@@ -3,7 +3,7 @@ This mini project minimizes the number of transaction required to complete a set
 To minimize the transactions am using Graph data structure.   
 [Algoritm](https://github.com/DonutsDevil/Split-Up/blob/main/Source%20Code/java/Utils/SplitUtils.java) This class is responsible for minimizing the amount of transaction required 
 
-## MainPage 
+## Main Screen  
 <img src="Gifs/delete.gif" width="150"/> 
 
 This is the place where we add the information about who is the Debtor(Giver), Who is creditor(Recevier) money and the amount of money to transfer, It also includes data validation.      
